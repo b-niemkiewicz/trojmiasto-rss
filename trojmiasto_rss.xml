@@ -1,14 +1,10 @@
-<rss version="2.0">
-  <channel>
-    <title>Trojmiasto.pl - Wiadomości</title>
-    <link>https://wiadomosci.trojmiasto.pl/</link>
-    <description>Najnowsze wiadomości z Trójmiasta</description>
-    <item>
-      <title>Tytuł artykułu 1</title>
-      <link>https://wiadomosci.trojmiasto.pl/artykul1</link>
-      <description>Opis artykułu</description>
-      <pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
-    </item>
-    <!-- Więcej artykułów -->
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Trojmiasto.pl - Wiadomości</title>
+<link>https://wiadomosci.trojmiasto.pl/</link>
+<description>Najnowsze wiadomości z Trójmiasta</description>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>python-feedgen</generator>
+<lastBuildDate>Fri, 11 Apr 2025 09:44:58 +0000</lastBuildDate>
+</channel>
 </rss>
